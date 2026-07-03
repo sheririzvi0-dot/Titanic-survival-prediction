@@ -1,0 +1,22 @@
+==========INSIGHT=========
+1. Female passengers had a significantly higher survival rate than male passengers.
+
+2. Passengers traveling in 1st class were more likely to survive than those in 2nd and 3rd class.
+
+3. Younger passengers showed slightly better survival chances compared to older passengers.
+
+4. Fare and passenger class were important factors influencing survival.
+
+5. Missing values in Age and Fare were handled using median imputation.
+
+6. The Sex column was converted into numerical values for machine learning.
+
+7. A Logistic Regression model was trained using Pclass, Sex, Age, and Fare.
+
+8. The model successfully predicted passenger survival outcomes.
+
+9.Model performance was evaluated using Accuracy, Confusion Matrix, and Classification Report.
+
+10.This project demonstrates the complete workflow of Data Cleaning, EDA, Feature Engineering, and Machine Learning Prediction.
+
+Insight saved as insight.txt
