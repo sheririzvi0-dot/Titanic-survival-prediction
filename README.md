@@ -1,4 +1,4 @@
-# Titanic-survival-prediction
+# Titanic-Survival-Prediction(ML MOdel)
 Exploratory Data Analysis and Machine Learning model to predict Titanic passenger survival using Python
 
 📌 Project Overview
@@ -37,10 +37,6 @@ The goal is to analyze passenger data, identify patterns, and build a predictive
 
 Predict whether a passenger survived (1) or not (0) based on features like age, gender, class, etc.
 
-
-👨‍💻 Author
-
-Aspiring Python Developer & Data Scientist
 
 
 
