@@ -47,7 +47,7 @@ The project demonstrates the complete **Machine Learning pipeline**, from data p
 
 ## **🤖 Machine Learning Model**
 
-- **Logistic Regression** *(or replace with **Random Forest Classifier** if that's the model you used)*
+- **Logistic Regression** *(**Random Forest Classifier**)*
 - **Train-Test Split**
 - **Model Accuracy Evaluation**
 - **Prediction on Unseen Data**
